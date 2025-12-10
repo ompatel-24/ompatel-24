@@ -1,3 +1,3 @@
-## \> hi my name is Om
+#### hi my name is Om
 
-## lets connect: [twitter](https://x.com/ompatel_24)
+#### lets connect: [twitter](https://x.com/ompatel_24)
